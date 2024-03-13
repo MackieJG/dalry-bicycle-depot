@@ -5,7 +5,7 @@ export default {
     colors: {
       background: "#1f1f21",
       pink: "#f077c2",
-      green: "14C39B",
+      green: "#00fced",
       white: "#e2e8f0",
       yellow: "#facc15",
     },
